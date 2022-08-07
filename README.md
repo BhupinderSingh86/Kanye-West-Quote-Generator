@@ -1,6 +1,6 @@
 # Kanye West Quote Generator
 
-This project was issed by [SOC](https://www.schoolofcode.co.uk/) to learn some basics of Vanilla JavaScript, CSS, HTML, fetch() & API's. Prior to this I had never worked with fetch() requests or knew what an API was or how to recieve data from an API ("Application Programming Interface").
+This project was issued by [SOC](https://www.schoolofcode.co.uk/) to learn some basics of Vanilla JavaScript, CSS, HTML, fetch() & API's. Prior to this I had never worked with fetch() requests, I never knew what an API is or how to receive data from an API ("Application Programming Interface").
 
 # Main Learning Points:
 -   Learning how to write an async function
@@ -10,7 +10,7 @@ This project was issed by [SOC](https://www.schoolofcode.co.uk/) to learn some b
 -   How to view the API Data on the browser console
 -   Attach an event listener to the button
 -   Create a function that takes in a string, creates a new list item with that string, and adds it to the ol 
--	  Learn further how HTML elements works / The releationship between the DOM, CSS & JavaScript
+-	  Learn further how HTML elements works / The relationship between the DOM, CSS & JavaScript
 
 I'm sure there are lots of improvements and learning to do around the above topics but I found working with them so much fun and it was great to learn more new things to add to my arsenal!
 
