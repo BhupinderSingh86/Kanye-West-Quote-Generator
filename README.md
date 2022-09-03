@@ -28,6 +28,10 @@ I'm sure there are lots of improvements and learning to do around the above topi
 - Open a browser page of your choice.
 - Paste the route path into the browser and you have access to the super cool Kanye West Quote Generator.
 
+OR Click on the link below if you want to know how Kanye feels!
+
+https://kanye-west-says.netlify.app
+
 ![Untitled](https://user-images.githubusercontent.com/100348736/183303991-a5f24fe6-e5ce-429e-8c52-89616f7bf63f.jpg)
 
 Enjoy the quotes! 😉
